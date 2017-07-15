@@ -3,7 +3,6 @@ numpy
 pandas
 scikit-learn
 matplotlib
-imageio
 bob.blitz==2.0.13
 bob.core==2.1.8
 bob.extension==2.4.2
